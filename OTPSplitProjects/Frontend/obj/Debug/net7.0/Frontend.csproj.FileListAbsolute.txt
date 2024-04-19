@@ -1,0 +1,7 @@
+E:\CodeCrafters\OTPSplitProjects\Frontend\obj\Debug\net7.0\Frontend.csproj.AssemblyReference.cache
+E:\CodeCrafters\OTPSplitProjects\Frontend\obj\Debug\net7.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeCrafters\OTPSplitProjects\Frontend\obj\Debug\net7.0\Frontend.AssemblyInfoInputs.cache
+E:\CodeCrafters\OTPSplitProjects\Frontend\obj\Debug\net7.0\Frontend.AssemblyInfo.cs
+E:\CodeCrafters\OTPSplitProjects\Frontend\obj\Debug\net7.0\Frontend.csproj.CoreCompileInputs.cache
+E:\CodeCrafters\OTPSplitProjects\Frontend\obj\Debug\net7.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
+E:\CodeCrafters\OTPSplitProjects\Frontend\obj\Debug\net7.0\Frontend.MvcApplicationPartsAssemblyInfo.cache

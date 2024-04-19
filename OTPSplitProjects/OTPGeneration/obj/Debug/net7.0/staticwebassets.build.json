@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pLTs68Wepmpq9JmUaonMbGNQBoRjc2KxW+kYoiwwIds=",
+  "Source": "OTPGeneration",
+  "BasePath": "_content/OTPGeneration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
