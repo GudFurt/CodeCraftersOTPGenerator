@@ -34,7 +34,7 @@ namespace OTPGeneration.Controllers
         }
 
 
-        public OTP GenOTPValue()
+        private OTP GenOTPValue()
         {
             Random random = new Random();
             string letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
