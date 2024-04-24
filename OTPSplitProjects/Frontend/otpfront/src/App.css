@@ -1,0 +1,79 @@
+.App {
+  text-align: center;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.digitContainers{
+    margin-top: 20vh;
+    margin-bottom: 3vh;
+    width: 20vw;
+    height: 5vw;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+
+.Key {
+    border-radius: 20%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3.5vw;
+    height: 100%;
+    font-size: 100%;
+    font-weight: 700;
+    background-color: #1a1b1c;
+}
+
+.GenButton {
+    width: 10vw;
+    height: 6vh;
+}
+
+.TimeText{
+    margin-top: 1vh;
+    font-size: 20px;
+    color: white;
+
+}
